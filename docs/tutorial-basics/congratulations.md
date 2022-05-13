@@ -14,5 +14,5 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 
 - Read the [official webpage](https://ec.europa.eu/health/ehealth/covid-19_en).
 - Study the [EU-DCC specification](https://github.com/ehn-dcc-development/eu-dcc-overview) 
-- Discover the Open Source [Reverence Implementations](https://github.com/eu-digital-green-certificates/dgc-overview)
+- Discover the Open Source [Reference Implementations](https://github.com/eu-digital-green-certificates/dgc-overview)
 - Get involved in the [EU DCC Disccussions](https://github.com/ehn-dcc-development/eu-dcc-overview/discussions)
