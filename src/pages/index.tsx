@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p>A digital proof that a person has been vaccinated against COVID-19, has recovered from COVID-19 or has a test result.</p>
+        <p>A digital proof that a person has been vaccinated against COVID-19, has recovered from COVID-19, or has a test result.</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
