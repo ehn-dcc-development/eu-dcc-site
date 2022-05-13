@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>EU DCC Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/eu-dcc-site/blog</link>
         <description>EU DCC Blog</description>
         <lastBuildDate>Thu, 13 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,34 +10,34 @@
         <language>en</language>
         <item>
             <title><![CDATA[DCC Issuer website]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/dcc-issuer-website</link>
+            <link>https://your-docusaurus-test-site.com/eu-dcc-site/blog/dcc-issuer-website</link>
             <guid>dcc-issuer-website</guid>
             <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DCC Issuer website]]></description>
-            <content:encoded><![CDATA[<p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="DCC Issuer website" src="/assets/images/intro-7a14eb8132c08b0361b7b5872290b02c.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">DCC Issuer website</a> created by the Austrian team which let you generate a DCC using an example signing key (or you can provide your own).</p><ul><li><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">https://dgc.a-sit.at/ehn/</a></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="DCC Issuer website" src="/eu-dcc-site/assets/images/intro-7a14eb8132c08b0361b7b5872290b02c.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">DCC Issuer website</a> created by the Austrian team which let you generate a DCC using an example signing key (or you can provide your own).</p><ul><li><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">https://dgc.a-sit.at/ehn/</a></li></ul>]]></content:encoded>
             <category>tools</category>
         </item>
         <item>
             <title><![CDATA[DCC Validation webapp]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/dcc-validation-app</link>
+            <link>https://your-docusaurus-test-site.com/eu-dcc-site/blog/dcc-validation-app</link>
             <guid>dcc-validation-app</guid>
             <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[EU-DCC Validation Web Application]]></description>
-            <content:encoded><![CDATA[<p><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Validation Web Application" src="/assets/images/intro-64dc5b80f9f795e89d1bbd0b57e9d63f.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-validation.web.app" target="_blank" rel="noopener noreferrer">DCC Validation webapp</a> created by a member of our team where you can view all of the <a href="https://github.com/eu-digital-green-certificates/dcc-quality-assurance" target="_blank" rel="noopener noreferrer">QA DCC repository</a> and are supported in a validation process.</p><ul><li><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer">https://eu-dcc-validation.web.app/</a></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Validation Web Application" src="/eu-dcc-site/assets/images/intro-64dc5b80f9f795e89d1bbd0b57e9d63f.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-validation.web.app" target="_blank" rel="noopener noreferrer">DCC Validation webapp</a> created by a member of our team where you can view all of the <a href="https://github.com/eu-digital-green-certificates/dcc-quality-assurance" target="_blank" rel="noopener noreferrer">QA DCC repository</a> and are supported in a validation process.</p><ul><li><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer">https://eu-dcc-validation.web.app/</a></li></ul>]]></content:encoded>
             <category>tools</category>
         </item>
         <item>
             <title><![CDATA[DCC Verifier webapp]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/dcc-verifier-ionic</link>
+            <link>https://your-docusaurus-test-site.com/eu-dcc-site/blog/dcc-verifier-ionic</link>
             <guid>dcc-verifier-ionic</guid>
             <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[EU-DCC Verifier]]></description>
-            <content:encoded><![CDATA[<p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Verifier" src="/assets/images/intro-4ba6f768628f7a34e1f1d428a9587796.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">DCC Verifier Web Application</a> created by a member of our team where you can scan a DCC, verify it and view the contents. Verification supports both Production and Acceptance environments.</p><ul><li><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">https://eu-dcc-verifier.web.app</a></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Verifier" src="/eu-dcc-site/assets/images/intro-4ba6f768628f7a34e1f1d428a9587796.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">DCC Verifier Web Application</a> created by a member of our team where you can scan a DCC, verify it and view the contents. Verification supports both Production and Acceptance environments.</p><ul><li><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">https://eu-dcc-verifier.web.app</a></li></ul>]]></content:encoded>
             <category>tools</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <link>https://your-docusaurus-test-site.com/eu-dcc-site/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the bloging space for the EU-DCC website. Here you will find posts about interesting showcases, tools, 3rd party implementations and other material related to the EU-DCC technology.]]></description>

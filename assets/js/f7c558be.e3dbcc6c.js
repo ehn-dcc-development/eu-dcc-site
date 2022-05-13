@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeu_dcc_site=self.webpackChunkeu_dcc_site||[]).push([[572],{8657:function(e){e.exports=JSON.parse('{"permalink":"/eu-dcc-site/blog/tags/tools","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
