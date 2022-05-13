@@ -9,7 +9,7 @@ const config = {
   title: 'EU DCC',
   tagline: 'EU Digital COVID Certificate',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/eu-dcc-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
