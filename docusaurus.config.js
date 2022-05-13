@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/skounis/eu-dcc-site/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/skounis/eu-dcc-site/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
