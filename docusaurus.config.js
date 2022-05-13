@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/docs/',
+            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/docs/',
+            'https://github.com/ehn-dcc-development/eu-dcc-site/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
