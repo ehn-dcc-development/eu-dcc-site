@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>EU DCC Blog</title>
+    <updated>2021-05-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>EU DCC Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DCC Issuer website]]></title>
+        <id>dcc-issuer-website</id>
+        <link href="https://your-docusaurus-test-site.com/blog/dcc-issuer-website"/>
+        <updated>2021-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DCC Issuer website]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="DCC Issuer website" src="/assets/images/intro-7a14eb8132c08b0361b7b5872290b02c.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">DCC Issuer website</a> created by the Austrian team which let you generate a DCC using an example signing key (or you can provide your own).</p><ul><li><a href="https://dgc.a-sit.at/ehn/" target="_blank" rel="noopener noreferrer">https://dgc.a-sit.at/ehn/</a></li></ul>]]></content>
+        <author>
+            <name>Ryan Barrett</name>
+            <uri>https://github.com/ryanbnl</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCC Validation webapp]]></title>
+        <id>dcc-validation-app</id>
+        <link href="https://your-docusaurus-test-site.com/blog/dcc-validation-app"/>
+        <updated>2021-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EU-DCC Validation Web Application]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Validation Web Application" src="/assets/images/intro-64dc5b80f9f795e89d1bbd0b57e9d63f.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-validation.web.app" target="_blank" rel="noopener noreferrer">DCC Validation webapp</a> created by a member of our team where you can view all of the <a href="https://github.com/eu-digital-green-certificates/dcc-quality-assurance" target="_blank" rel="noopener noreferrer">QA DCC repository</a> and are supported in a validation process.</p><ul><li><a href="https://eu-dcc-validation.web.app/" target="_blank" rel="noopener noreferrer">https://eu-dcc-validation.web.app/</a></li></ul>]]></content>
+        <author>
+            <name>Ryan Barrett</name>
+            <uri>https://github.com/ryanbnl</uri>
+        </author>
+        <author>
+            <name>Stavros Kounis</name>
+            <uri>https://github.com/skounis</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCC Verifier webapp]]></title>
+        <id>dcc-verifier-ionic</id>
+        <link href="https://your-docusaurus-test-site.com/blog/dcc-verifier-ionic"/>
+        <updated>2021-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EU-DCC Verifier]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="EU-DCC Verifier" src="/assets/images/intro-4ba6f768628f7a34e1f1d428a9587796.png" width="2880" height="2080" class="img_E7b_"></a></p><p><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">DCC Verifier Web Application</a> created by a member of our team where you can scan a DCC, verify it and view the contents. Verification supports both Production and Acceptance environments.</p><ul><li><a href="https://eu-dcc-verifier.web.app" target="_blank" rel="noopener noreferrer">https://eu-dcc-verifier.web.app</a></li></ul>]]></content>
+        <author>
+            <name>Ryan Barrett</name>
+            <uri>https://github.com/ryanbnl</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://your-docusaurus-test-site.com/blog/welcome"/>
+        <updated>2021-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the bloging space for the EU-DCC website. Here you will find posts about interesting showcases, tools, 3rd party implementations and other material related to the EU-DCC technology.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the bloging space for the EU-DCC website. Here you will find posts about interesting <strong>showcases</strong>, <strong>tools</strong>, <strong>3rd party implementations</strong> and other material related to the EU-DCC technology.</p>]]></content>
+        <author>
+            <name>Meinte Boersma</name>
+            <uri>https://github.com/dslmeinte</uri>
+        </author>
+        <author>
+            <name>Ryan Barrett</name>
+            <uri>https://github.com/ryanbnl</uri>
+        </author>
+        <author>
+            <name>Stavros Kounis</name>
+            <uri>https://github.com/skounis</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
