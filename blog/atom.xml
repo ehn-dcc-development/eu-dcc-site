@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/eu-dcc-site/blog</id>
     <title>EU DCC Blog</title>
-    <updated>2021-05-13T00:00:00.000Z</updated>
+    <updated>2021-05-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/eu-dcc-site/blog"/>
     <subtitle>EU DCC Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/eu-dcc-site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CertLogic Fiddle]]></title>
+        <id>certlogic-fiddle</id>
+        <link href="https://your-docusaurus-test-site.com/eu-dcc-site/blog/certlogic-fiddle"/>
+        <updated>2021-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CertLogic Fiddle is a small, “IDE-like” mini-app to “fiddle” around with CertLogic - somewhat like the well-known JSFiddle tool.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://certlogic-fiddle.vercel.app/" target="_blank" rel="noopener noreferrer">CertLogic Fiddle</a> is a small, “IDE-like” mini-app to “fiddle” around with CertLogic - somewhat like the well-known <a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">JSFiddle tool</a>.</p><ul><li><a href="https://certlogic-fiddle.vercel.app/" target="_blank" rel="noopener noreferrer">https://certlogic-fiddle.vercel.app/</a></li></ul><p>You can use CertLogic Fiddle to quickly write, and (sort-of) debug CertLogic expressions.
+You can share a CertLogic expression plus the data it operates on with others through a generatable URL.
+That makes it easy to collaborate on implementing, understanding, and debugging business rules.</p><p>The following screenshot shows CertLogic Fiddle with the expression of a business rules for checking whether a vaccination DCC has an accepted vaccine:</p><p><a href="https://certlogic-fiddle.vercel.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="CertLogic Fiddle" src="/eu-dcc-site/assets/images/intro-51876e0a5026f56fa08751278806c35e.png" width="1563" height="842" class="img_E7b_"></a></p>]]></content>
+        <author>
+            <name>Meinte Boersma</name>
+            <uri>https://github.com/dslmeinte</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCC Crosscheck]]></title>
+        <id>dcc-crosscheck</id>
+        <link href="https://your-docusaurus-test-site.com/eu-dcc-site/blog/dcc-crosscheck"/>
+        <updated>2021-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DCC Crosscheck is a mini-app to run a DCC payload against the business rules contributed by various countries to the development/staging/pre-production GitHub repo.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://dcc-crosscheck.vercel.app/" target="_blank" rel="noopener noreferrer">DCC Crosscheck</a> is a mini-app to run a DCC payload against the business rules contributed by various countries to the <a href="https://github.com/eu-digital-green-certificates/dgc-business-rules-testdata" target="_blank" rel="noopener noreferrer">development/staging/pre-production GitHub repo</a>.</p><ul><li><a href="https://dcc-crosscheck.vercel.app/" target="_blank" rel="noopener noreferrer">https://dcc-crosscheck.vercel.app/</a></li></ul><p>The following screenshot shows this app in action:</p><p><a href="https://dcc-crosscheck.vercel.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="DCC Crosscheck" src="/eu-dcc-site/assets/images/intro-f11c749e9af8fccfeecbc7e7b9b84d67.png" width="1625" height="1900" class="img_E7b_"></a></p><p>This is for informational and development purposes only!
+The rules in this mini-app are <strong>not</strong> the actual rules.
+No rights can be derived from it.</p>]]></content>
+        <author>
+            <name>Meinte Boersma</name>
+            <uri>https://github.com/dslmeinte</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCC Encoding]]></title>
+        <id>dcc-encoding</id>
+        <link href="https://your-docusaurus-test-site.com/eu-dcc-site/blog/dcc-encoding"/>
+        <updated>2021-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DCC Encoding is a mini-app to demonstrate how to encode a vaccination + recovery history into the dn/sd fields of a DCC.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://dcc-encoding.vercel.app/" target="_blank" rel="noopener noreferrer">DCC Encoding</a> is a mini-app to demonstrate how to encode a vaccination + recovery history into the <code>dn</code>/<code>sd</code> fields of a DCC.</p><ul><li><a href="https://dcc-encoding.vercel.app/" target="_blank" rel="noopener noreferrer">https://dcc-encoding.vercel.app/</a></li></ul><p>The following screenshot shows such a history with the encoding of all the resulting DCCs:</p><p><a href="https://dcc-encoding.vercel.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="DCC Encoding" src="/eu-dcc-site/assets/images/intro-72ec516898ec478f66d6ec3eacef2fc1.png" width="982" height="252" class="img_E7b_"></a></p><p>Note that this is for informational and development purposes only!
+No rights can be derived from this app.</p>]]></content>
+        <author>
+            <name>Meinte Boersma</name>
+            <uri>https://github.com/dslmeinte</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-DCC rules prototype]]></title>
+        <id>non-dcc-rules-prototype</id>
+        <link href="https://your-docusaurus-test-site.com/eu-dcc-site/blog/non-dcc-rules-prototype"/>
+        <updated>2021-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NNon-DCC rules prototype is a prototype/tech demonstrator that naturally extends the current DCC validation framework to be able to handle non-DCC data in a useful way.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://non-dcc-rules-prototype.vercel.app/" target="_blank" rel="noopener noreferrer">NNon-DCC rules prototype</a> is a prototype/tech demonstrator that naturally extends the current DCC validation framework to be able to handle non-DCC data in a useful way.</p><ul><li><a href="https://non-dcc-rules-prototype.vercel.app/" target="_blank" rel="noopener noreferrer">https://non-dcc-rules-prototype.vercel.app/</a></li></ul><p>The following screenshot shows part of this prototype in action:</p><p><a href="https://non-dcc-rules-prototype.vercel.app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Non-DCC rules prototype" src="/eu-dcc-site/assets/images/intro-bced997643bce2a775376f95e89f6e04.png" width="1538" height="630" class="img_E7b_"></a></p>]]></content>
+        <author>
+            <name>Meinte Boersma</name>
+            <uri>https://github.com/dslmeinte</uri>
+        </author>
+        <category label="tools" term="tools"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCC Issuer website]]></title>
         <id>dcc-issuer-website</id>

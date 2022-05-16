@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeu_dcc_site=self.webpackChunkeu_dcc_site||[]).push([[275],{5810:function(e){e.exports=JSON.parse('{"permalink":"/eu-dcc-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

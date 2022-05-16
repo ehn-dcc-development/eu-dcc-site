@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeu_dcc_site=self.webpackChunkeu_dcc_site||[]).push([[748],{9480:function(e){e.exports=JSON.parse('{"label":"tools","permalink":"/eu-dcc-site/blog/tags/tools","allTagsPath":"/eu-dcc-site/blog/tags","count":3}')}}]);
