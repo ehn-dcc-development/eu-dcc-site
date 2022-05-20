@@ -14,7 +14,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        EU DCC is used by more than 60 different countries issuing and supporting more than 5 billion certificates.
+        EU DCC is used by more than 60 different countries.
+        More than 1.8 billion certificates haven been issued by EU Member States and EEA countries alone.
+        Even more non-EU countries have also adopted the EU DCC, either scanning them at the border, or issuing them, or both.
       </>
     ),
   },
